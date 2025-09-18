@@ -6,7 +6,7 @@ import torch
 import json
 
 # Load dataset
-with open("data/social_media_hazard_feed_3way.json", "r", encoding="utf-8") as f:
+with open("social_media_hazard_feed_3way.json", "r", encoding="utf-8") as f:
     posts = json.load(f)
 
 # Load HuggingFace model
