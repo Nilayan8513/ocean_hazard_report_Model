@@ -2,5 +2,7 @@ fastapi
 uvicorn
 transformers
 torch
-indic-nlp-library
-huggingface_hub
+pydantic
+pandas
+numpy
+scikit-learn
